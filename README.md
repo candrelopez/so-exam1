@@ -48,6 +48,8 @@ Dando como resultado:
 Respuesta:
 Cree el archivo readme.txt con la siguiente información:
 
+![leer](leer_archivo.png)
+
  
 
 Luego utilizo el comando tac  de la siguiente manera tac readme.txt y genera lo siguiente:
