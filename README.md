@@ -14,6 +14,7 @@ Parcial Sistemas operativos
 
 Respuesta:  
 -	Como primer paso creo un archivo sumar.txt dentro del directorio Home.  
+https://github.com/candrelopez/so-exam1/edit/A00141804/sumar.jpg
  
 -	En el archivo ingrese los números por línea 1,2,3,4.  
 -	Luego de esto descargue bc con el comando yum install bc  
