@@ -63,6 +63,7 @@ Inicialmente creo un archivo que se llama líneas repetidas con la siguiente inf
  
  Luego de esto utilizo el el siguiente comando cat líneas_repetidas.txt | sort | uniq lo que me genera el siguiente resultado:  
 
+![linea_duplicada](linea_duplicada1.png)
  
 Claramente se ve como quita las líneas repetidas.  
 5.	Disp_table  
