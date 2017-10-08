@@ -54,7 +54,7 @@ Cree el archivo readme.txt con la siguiente información:
 
 Luego utilizo el comando tac  de la siguiente manera tac readme.txt y genera lo siguiente:
 
- 
+ ![leer_arch](leer_archivo1.png)
 
 4.	remove_duplicated_lines  
 Respuesta:  
