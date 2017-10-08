@@ -74,6 +74,7 @@ Par imprimir las líneas del archivo csv utilizo la siguiente línea de comando:
 
 Y tiene como resultado:  
 
+![csv1](archivo_csv1.png)
  
 
 
@@ -90,7 +91,11 @@ y dentro de este directorio creo el script.sh de la siguiente forma:
 Con esto queda creado el script.  
 Luego de esto descargo por medio de yum el paquete wget de la siguiente manera:  
 Yum install wget  
-
+- Después de instalar este paquete agrego la siguiente linea al script:
+wget -A epub https://www.gutenberg.org/ebooks/55688
+ , luego de esto creo el crontab siguiente :
+ */5 2 * * 1-5 /bin/ejecutar/script.sh
+ 
 
 
 
