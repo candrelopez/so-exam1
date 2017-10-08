@@ -70,7 +70,7 @@ Claramente se ve como quita las líneas repetidas.
 Respuesta:  
 
 Par imprimir las líneas del archivo csv utilizo la siguiente línea de comando:  
- 
+![csv](archivo_csv.png)
 
 Y tiene como resultado:  
 
