@@ -58,7 +58,8 @@ Luego utilizo el comando tac  de la siguiente manera tac readme.txt y genera lo 
 
 4.	remove_duplicated_lines  
 Respuesta:  
-Inicialmente creo un archivo que se llama líneas repetidas con la siguiente información:  
+Inicialmente creo un archivo que se llama líneas repetidas con la siguiente información:
+![Linea_duplicada](linea_duplicada.png)
  
  Luego de esto utilizo el el siguiente comando cat líneas_repetidas.txt | sort | uniq lo que me genera el siguiente resultado:  
 
