@@ -14,11 +14,12 @@ Parcial Sistemas operativos
 
 Respuesta:  
 -	Como primer paso creo un archivo sumar.txt dentro del directorio Home.  
+![sumar](https://github.com/candrelopez/so-exam1/edit/A00141804/sumar.jpg)  
 -	En el archivo ingrese los números por línea 1,2,3,4.  
 -	Luego de esto descargue bc con el comando yum install bc  
 -	Luego de esto ejecuto el siguiente comando paste –sd+ sumar.txt | bc  lo que da como resultado la suma de los números, presento a   continuación el pantallazo:  
 
- ![sumar](https://github.com/candrelopez/so-exam1/edit/A00141804/sumar.jpg)  
+ 
  
 
 2.	replace_spaces_in_filenames  
