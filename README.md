@@ -38,7 +38,7 @@ Posteriormente utilizo el comando sed  de la siguiente manera sed –i –e  ‘
 
 Dando como resultado:
 
- 
+![puntos](puntos.png) 
 
 
 
