@@ -27,6 +27,8 @@ Respuesta:
 Respuesta:  
 -	Inicialmente creo el archivo readme.txt con la siguiente información:  
 
+![Creacion](creacion_archivo.png)
+
  
 
 Posteriormente utilizo el comando sed  de la siguiente manera sed –i –e  ‘s/ /g’ mas el nombre del fichero en este caso readme.txt y   esto modifica el archivo de la siguiente manera:  
