@@ -19,7 +19,7 @@ Respuesta:
 -	Luego de esto descargue bc con el comando yum install bc  
 -	Luego de esto ejecuto el siguiente comando paste –sd+ sumar.txt | bc  lo que da como resultado la suma de los números, presento a   continuación el pantallazo:  
 
- 
+![Suma_completa](suma_completa.jpg)
  
 
 2.	replace_spaces_in_filenames  
